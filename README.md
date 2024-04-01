@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TobyOw
-- 👀 I’m interested in Video Games, mainly fps games. Big fan Overwatch
+- 👀 I’m interested in Video Games, mainly fps games. 
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
